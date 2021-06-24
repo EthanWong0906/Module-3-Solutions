@@ -1,7 +1,14 @@
-h1{
+#header-nav{
+	background-color:grey;
+	border-radius:0;
+	border:0;
+}
+
+h4{
 	text-align:center;
 }
 
-.navbar-brand{
-	background-color:grey;
+#beef{
+	background-color: grey
 }
+
